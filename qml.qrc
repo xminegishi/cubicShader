@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cube.qml</file>
+        <file>CubeFace.qml</file>
+        <file>CubeView.qml</file>
+        <file>Effect.qml</file>
+        <file>EffectBillboard.qml</file>
+        <file>EffectBlur.qml</file>
+        <file>EffectPathThrough.qml</file>
+        <file>EffectSepia.qml</file>
+        <file>EffectWarhol.qml</file>
+        <file>js/Cube.js</file>
+        <file>js/CubeView.js</file>
+    </qresource>
+</RCC>

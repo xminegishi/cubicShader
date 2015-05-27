@@ -1,2 +1,3 @@
 # corocoroShader
-Applying shader effects by cubic UI
+This is made by QtQML and javaScript.
+Applying shader effects by cubic rotation.
